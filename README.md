@@ -22,5 +22,3 @@ A fully responsive frontend clone of the redBus homepage, built using **React**,
 
 ---
 
-## 📂 Folder Structure
-
